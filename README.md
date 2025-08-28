@@ -7,14 +7,14 @@ Berikut adalah beberapa proyek end-to-end yang pernah saya kerjakan, mencakup ta
 
 ##  Tabular Data 
 - [Prediksi Audio](https://github.com/Firdatulayuni/PSD-A)
-- [Prediksi Emisi](https://github.com/Firdatulayuni/Prediksi-Emisi)
+- [Prediksi Emisi CO2 Rwanda](https://github.com/Firdatulayuni/Prediksi-Emisi)
 
 ##  Natural Language Processing (NLP)
 - [Klasifikasi Berita dengan SVD](https://huggingface.co/spaces/firdatulayuni/klasifikasi_berita_svd)  
 
 ##  Deep Learning
 - [Analisis Depresi Mahasiswa (LassoNet-RNN)](https://colab.research.google.com/drive/1TVjSoNBwd27MtuLbGQm1xzfgC58PBkxi?usp=sharing)  
-- [Klasifikasi LSD pada Sapi (MobileNetV2, Skripsi)](https://github.com/Firdatulayuni/prediksi-lumpy-skin)  
+- [Klasifikasi LSD pada Sapi (MobileNetV2)](https://github.com/Firdatulayuni/prediksi-lumpy-skin)  
 
 ---
 
