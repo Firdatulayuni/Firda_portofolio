@@ -1,0 +1,14 @@
+/* Styling untuk logo */
+img[alt="Logo"] {
+  max-width: 180px;   /* atur ukuran maksimal */
+  border-radius: 50%; /* bikin lingkaran (optional) */
+  display: block;
+  margin: 20px auto;  /* biar ke tengah */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2); /* kasih bayangan biar estetik */
+}
+
+/* Styling tambahan untuk body */
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  line-height: 1.6;
+}
