@@ -16,7 +16,7 @@ Berikut adalah beberapa proyek end-to-end yang pernah saya kerjakan, mencakup ta
 
 ##  Deep Learning
 - [Analisis Depresi Mahasiswa (LassoNet-RNN)](https://colab.research.google.com/drive/1TVjSoNBwd27MtuLbGQm1xzfgC58PBkxi?usp=sharing)  
-- [Klasifikasi LSD pada Sapi (MobileNetV2, Skripsi)](https://github.com/Firdatulayuni/prediksi-lumpy-skin)  
+- [Klasifikasi LSD pada Sapi (MobileNetV2)](https://github.com/Firdatulayuni/prediksi-lumpy-skin)  
 
 ---
 
