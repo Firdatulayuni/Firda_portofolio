@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="style.css">
 
-
 **Data Science Portfolio - Firdatul A'yuni**
 
 Halo! Saya Firda, fresh graduate Teknik Informatika dengan fokus di **Data Science & Machine Learning**.  
