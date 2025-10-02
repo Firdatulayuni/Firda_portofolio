@@ -4,75 +4,45 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Portofolio Firda</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f9f9f9;
-      color: #333;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
-      text-align: center;
-    }
-    img {
-      width: 180px;
-      border-radius: 10px;
-      margin-bottom: 20px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-    }
-    h1 {
-      color: #2c3e50;
-    }
-    h2 {
-      margin-top: 40px;
-      color: #444;
-      border-bottom: 2px solid #ddd;
-      padding-bottom: 5px;
-    }
-    a {
-      color: #007acc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="container">
-    <img src="foto.jpg" alt="Foto Firda">
-    <h1>Firdatul A'yuni</h1>
-    <p><strong>Data Science Portfolio</strong></p>
-    <p>Halo! Saya Firdatul A'yuni, fresh graduate Teknik Informatika dengan fokus di <b>Data Science & Machine Learning</b>.
-    Berikut adalah beberapa proyek end-to-end yang pernah saya kerjakan, mencakup tabular data, NLP, audio processing, dan computer vision.</p>
+    
+    <!-- Bagian Profil -->
+    <section class="profile">
+      <img src="foto.jpg" alt="Foto Profil">
+      <div class="bio">
+        <h1>Firdatul A'yuni</h1>
+        <h2>Data Science Portfolio</h2>
+        <p>
+          Halo! Saya Firdatul A'yuni, fresh graduate Teknik Informatika dengan fokus di 
+          <strong>Data Science & Machine Learning</strong>.  
+          Berikut beberapa proyek end-to-end yang pernah dikerjakan, mencakup 
+          tabular data, NLP, audio processing, dan computer vision.
+        </p>
+      </div>
+    </section>
 
-    <h2>Tabular Data</h2>
-    <ul>
-      <li><a href="#">Prediksi Audio</a></li>
-      <li><a href="#">Prediksi Emisi CO2 Rwanda</a></li>
-    </ul>
+    <!-- Bagian Project -->
+    <section class="projects">
+      <h2>Tabular Data</h2>
+      <div class="cards">
+        <a href="#"> Prediksi Audio</a>
+        <a href="#"> Prediksi Emisi CO2 Rwanda</a>
+      </div>
 
-    <h2>Natural Language Processing (NLP)</h2>
-    <ul>
-      <li><a href="#">Klasifikasi Berita dengan SVD</a></li>
-    </ul>
+      <h2>Natural Language Processing (NLP)</h2>
+      <div class="cards">
+        <a href="#"> Klasifikasi Berita dengan SVD</a>
+      </div>
 
-    <h2>Deep Learning</h2>
-    <ul>
-      <li><a href="#">Analisis Depresi Mahasiswa (LassoNet-RNN)</a></li>
-      <li><a href="#">Klasifikasi LSD pada Sapi (MobileNetV2)</a></li>
-    </ul>
-
-    <h2>Kontak Saya</h2>
-    <p>
-      <a href="https://linkedin.com/in/firdaayuni">LinkedIn</a> |
-      <a href="https://github.com/firdaayuni">GitHub</a> |
-      <a href="mailto:firdatulayuni@gmail.com">Email</a>
-    </p>
+      <h2>Deep Learning</h2>
+      <div class="cards">
+        <a href="#"> Analisis Depresi Mahasiswa (LassoNet-RNN)</a>
+        <a href="#"> Klasifikasi LSD pada Sapi (MobileNetV2)</a>
+      </div>
+    </section>
   </div>
 </body>
 </html>
