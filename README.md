@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
-**Data Science Portfolio - Firdatul A'yuni**
+# **Data Science Portfolio - Firdatul A'yuni**
 
 Halo! Saya Firda, fresh graduate Teknik Informatika dengan fokus di **Data Science & Machine Learning**.  
 Berikut adalah beberapa proyek end-to-end yang pernah saya kerjakan, mencakup tabular data, NLP, audio processing, dan computer vision.  
