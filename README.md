@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Firda.jpg" alt="Foto Firda" width="200">
+  <img src="foto.jpg" alt="Foto Firda" width="200">
 </p>
 
 # Firdatul A'yuni
