@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Firdatul A'yuni
 
 **Data Science Portfolio - Firdatul A'yuni**
