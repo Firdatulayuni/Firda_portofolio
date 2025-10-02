@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="foto.jpg" alt="Foto Firda" width="200">
-</p>
-
 # Firdatul A'yuni
 
 **Data Science Portfolio - Firdatul A'yuni**
